@@ -22,6 +22,7 @@ Fortaleza, CE. Aberto a oportunidades. [icaromelodev.com.br](https://icaromelode
 | **[Escritório](https://github.com/icaroMelo1/escritorio)** | Correio ponto a ponto entre sessões de agente, sem orquestrador central | |
 | **[Brain Atlas](https://github.com/icaroMelo1/brain-atlas)** | Representação em tempo real do raciocínio de um agente | [no ar](https://icaromelodev.com.br/brain) |
 | **[Claudicaro CLI](https://github.com/icaroMelo1/claudicaro-cli)** | Operação de diferentes ferramentas de IA na mesma conversa | |
+| **[Barrel](https://github.com/icaroMelo1/barrel)** | App macOS em SwiftUI, encerrado após diagnóstico do motor Wine | |
 
 Cada projeto no [portfólio](https://icaromelodev.com.br) declara o estado em que se
 encontra, inclusive quando suspenso.
